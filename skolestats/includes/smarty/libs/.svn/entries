@@ -1,0 +1,82 @@
+8
+
+dir
+36
+http://skolesvn.kamfjord-it.no/includes/smarty/libs
+http://skolesvn.kamfjord-it.no
+
+
+
+2008-02-14T21:43:30.775164Z
+6
+lak
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+bf76c608-56aa-442f-a3fa-f9ee82072ae6
+
+internals
+dir
+
+plugins
+dir
+
+Smarty_Compiler.class.php
+file
+
+
+
+
+2008-02-19T09:06:38.000000Z
+e9a2dd9a16a0206583cfe02b758b59da
+2008-02-14T21:43:30.775164Z
+6
+lak
+
+debug.tpl
+file
+
+
+
+
+2008-02-19T09:06:38.000000Z
+def6c6e062941c8b2986f9f977b26307
+2008-02-14T21:43:30.775164Z
+6
+lak
+
+Smarty.class.php
+file
+
+
+
+
+2008-02-19T09:06:38.000000Z
+e56c4e4d83d7f920a10cebd261596342
+2008-02-14T21:43:30.775164Z
+6
+lak
+
+Config_File.class.php
+file
+
+
+
+
+2008-02-19T09:06:38.000000Z
+a6ed67e2208f7589489248c31299aaf8
+2008-02-14T21:43:30.775164Z
+6
+lak
+

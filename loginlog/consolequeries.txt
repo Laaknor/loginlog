@@ -1,0 +1,3 @@
+SELECT username,hostname,clientname,company AS skole,title,department AS trinn,location AS klasse,dato,tid FROM loginlog ORDER BY ID DESC LIMIT 0,30;
+SELECT COUNT(*) AS antall_nye_klienter FROM klienter WHERE gruppe = 1;
+SELECT navn,type=2 AS 'PC', type=1 AS 'TK' FROM klienter WHERE gruppe = 1 ORDER BY type=2 ASC, TYPE = 1 ASC, navn ASC;

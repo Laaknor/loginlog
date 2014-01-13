@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/9/includes/JPGraph/jpgraph4
+END
+imgdata_squares.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/9/includes/JPGraph/jpgraph4/imgdata_squares.inc
+END
+jpgraph_log.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_log.php
+END
+jpgraph_utils.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_utils.inc
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/9/includes/JPGraph/jpgraph4/CHANGELOG
+END
+jpgraph_iconplot.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_iconplot.php
+END
+gd_image.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/9/includes/JPGraph/jpgraph4/gd_image.inc.php
+END
+imgdata_stars.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/9/includes/JPGraph/jpgraph4/imgdata_stars.inc
+END
+imgdata_balls.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/9/includes/JPGraph/jpgraph4/imgdata_balls.inc
+END
+flags_thumb100x100.dat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/9/includes/JPGraph/jpgraph4/flags_thumb100x100.dat
+END
+jpgraph_flags.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_flags.php
+END
+jpgraph_antispam-digits.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_antispam-digits.php
+END
+jpgraph_gb2312.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_gb2312.php
+END
+jpgraph_scatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_scatter.php
+END
+jpgraph_plotmark.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_plotmark.inc
+END
+jpgraph_gantt.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_gantt.php
+END
+jpgraph_date.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_date.php
+END
+imgdata_bevels.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/9/includes/JPGraph/jpgraph4/imgdata_bevels.inc
+END
+jpgraph.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph.php
+END
+jpgraph_stock.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_stock.php
+END
+jpgraph_imgtrans.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_imgtrans.php
+END
+jpgraph_line.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_line.php
+END
+jpgraph_radar.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_radar.php
+END
+jpgraph_error.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_error.php
+END
+jpg-config.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpg-config.inc
+END
+imgdata_diamonds.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9/includes/JPGraph/jpgraph4/imgdata_diamonds.inc
+END
+jpgraph_gradient.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_gradient.php
+END
+flags.dat
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/9/includes/JPGraph/jpgraph4/flags.dat
+END
+jpgraph_plotband.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_plotband.php
+END
+jpgraph_bar.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_bar.php
+END
+jpgraph_pie3d.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_pie3d.php
+END
+flags_thumb60x60.dat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9/includes/JPGraph/jpgraph4/flags_thumb60x60.dat
+END
+imgdata_pushpins.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9/includes/JPGraph/jpgraph4/imgdata_pushpins.inc
+END
+jpgraph_canvtools.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_canvtools.php
+END
+flags_thumb35x35.dat
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9/includes/JPGraph/jpgraph4/flags_thumb35x35.dat
+END
+jpgraph_regstat.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_regstat.php
+END
+jpgraph_canvas.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_canvas.php
+END
+jpgraph_antispam.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_antispam.php
+END
+jpgraph_pie.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_pie.php
+END
+jpgraph_polar.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/9/includes/JPGraph/jpgraph4/jpgraph_polar.php
+END
